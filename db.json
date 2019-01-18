@@ -51,13 +51,13 @@
     {
       "id": 9,
       "name": "Veggie Burger",
-      "description": "Not Really a Burger",
+      "description": "Better for you than any other burger on the menu",
       "image": "https://cookieandkate.com/images/2013/05/sweet-potato-black-bean-veggie-burgers-recipe-0.jpg"
     },
     {
       "id": 10,
       "name": "Spinach",
-      "description": "Ew.",
+      "description": "Best thing on the menu",
       "image": "https://www.organicfacts.net/wp-content/uploads/spinach.jpg"
     },
     {
